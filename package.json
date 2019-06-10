@@ -1,0 +1,25 @@
+{
+  "name": "koa-admin-photo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "qsm",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "chalk": "^2.4.2",
+    "feather-icons": "^4.7.3",
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-nunjucks-2": "^3.0.2",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.3",
+    "koa-views": "^6.1.4"
+  }
+}
